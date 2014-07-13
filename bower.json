@@ -1,0 +1,19 @@
+{
+  "name": "angular-QueryString",
+  "version": "0.1.0",
+  "homepage": "https://github.com/igorizr1/angular-QueryString",
+  "authors": [
+    "codestack <codestack123@gmail.com>"
+  ],
+  "main": [
+    "QueryString.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
