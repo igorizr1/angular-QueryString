@@ -6,7 +6,7 @@
     "codestack <igorizr1@gmail.com>"
   ],
   "main": [
-    "querystring.js"
+    "angular-querystring.min.js"
   ],
   "license": "MIT",
   "ignore": [
